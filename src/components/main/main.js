@@ -6,7 +6,7 @@ const Main = () => {
   return (
     <div className="main-row">
       <div className="column-large">
-        <div class="butt">
+        <div className="butt">
           <p>TRAVEL</p>
         </div>
         <h3 className="text">
@@ -22,7 +22,7 @@ const Main = () => {
         <img className="main-img" src={mainImg} alt="Logo" />
       </div>
       <div className="column-mini">
-        <div class="butt">
+        <div className="butt">
           <p>DINE</p>
         </div>
         <p className="text light-text">
@@ -31,7 +31,7 @@ const Main = () => {
         </p>
         <p className="subtitle">U. R. Oliver</p>
         <br />
-        <div class="butt">
+        <div className="butt">
           <p>DINE</p>
         </div>
         <p className="text light-text">
@@ -42,7 +42,7 @@ const Main = () => {
         <br />
         <img className="car-img" src={carImg} alt="Logo" />
 
-        <div class="butt">
+        <div className="butt">
           <p>OPEN HOUSE</p>
         </div>
         <p className="text light-text">
@@ -52,7 +52,7 @@ const Main = () => {
       </div>
       <div className="column-mini">
         <img className="car-img" src={buildingImg} alt="Logo" />
-        <div class="butt">
+        <div className="butt">
           <p>DINE</p>
         </div>
         <p className="text light-text">
@@ -61,7 +61,7 @@ const Main = () => {
         </p>
         <p className="subtitle">U. R. Oliver</p>
         <br />
-        <div class="butt">
+        <div className="butt">
           <p>DINE</p>
         </div>
         <p className="text light-text">
@@ -71,7 +71,7 @@ const Main = () => {
         <p className="subtitle">U. R. Oliver</p>
         <br />
 
-        <div class="butt">
+        <div className="butt">
           <p>OPEN HOUSE</p>
         </div>
         <p className="text light-text">
